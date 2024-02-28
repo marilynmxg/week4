@@ -1,0 +1,33 @@
+* {
+    color:rgb(105, 93, 193);
+}
+p {
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+body{
+    background-color: beige;
+    padding: 25px 50px 75px 100px;
+    margin: 25px 50px 75px;
+}
+
+.colorbox{
+    background-color:rgb(13, 4, 67);
+}
+#myarticle{
+    background-color:#440202;
+}
+h2,h1 {
+    text-align: center;
+    color: rgb(54, 161, 85);
+  }
+  div.span_box{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #440202;
+  }
+.span_box{
+    text-align: center;
+}
